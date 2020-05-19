@@ -15,4 +15,6 @@ and continue to unite all unique datapoints in a single cluster.this is agglomer
 
 7)dendrogram
 
-8)
+8)linkage
+
+9)merging
