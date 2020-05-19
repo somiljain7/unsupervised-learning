@@ -22,4 +22,7 @@ and continue to unite all unique datapoints in a single cluster.this is agglomer
 10)in a "complete" linkage : distance between clusters is max. distance between their samples
 specified via method parameter
 
-11)
+11)fcluster()
+returns a Nuumpy array of cluster labels
+
+12)
