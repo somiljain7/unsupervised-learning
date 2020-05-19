@@ -4,3 +4,5 @@ function and keywords
                       Standardscaler is apreprocessing step
 3)MaxAbsScaler
 4)Normalizer->Normalizer() rescales each sample -The Normalizer will separately transform each company's stock price to a relative scale before the clustering begins. 
+5)t-SNE- created a 2d map of dataset
+6)
