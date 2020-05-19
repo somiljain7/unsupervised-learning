@@ -18,3 +18,8 @@ and continue to unite all unique datapoints in a single cluster.this is agglomer
 8)linkage
 
 9)merging
+
+10)in a "complete" linkage : distance between clusters is max. distance between their samples
+specified via method parameter
+
+11)
