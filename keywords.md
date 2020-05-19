@@ -7,7 +7,7 @@ function and keywords
 
 4)Normalizer->Normalizer() rescales each sample -The Normalizer will separately transform each company's stock price to a relative scale before the clustering begins. 
 
-5)t-SNE- created a 2d map of dataset
+5)t-SNE- created a 2d map of dataset(t-distributed tochastic neighboe embedding)(approximately representing the distances between the samples)
 
 6)hierarchial clustering 
 every centroid(data unique) begins in a separate cluster , at each step the 2 closest clusters are merged
