@@ -25,4 +25,14 @@ specified via method parameter
 11)fcluster()
 returns a Nuumpy array of cluster labels
 
-12)
+12)t-SNE has only fit_transform()
+has a fit_transform() method
+simultaneously fits the model and transforms the data
+
+has no separate fit() or transform() methods
+
+cant expend the map to include new data saamples
+must start over each time
+
+learning rate(50-200)
+
