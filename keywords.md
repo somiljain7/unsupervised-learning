@@ -13,4 +13,6 @@ function and keywords
 every centroid(data unique) begins in a separate cluster , at each step the 2 closest clusters are merged
 and continue to unite all unique datapoints in a single cluster.this is agglomerative hierarchial clustering
 
-7)
+7)dendrogram
+
+8)
