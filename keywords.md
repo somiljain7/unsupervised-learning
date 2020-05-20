@@ -45,6 +45,9 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
  17)PCA - learrns directions if variance
  
 18)intrinsic dimension = number of features needed to approx the dataset(dimesion reduction )
+
 19)word frequency arrays- rows represent docs, columns represent words
 
-20)
+20)sparse array entries are mostly 0
+
+21)
