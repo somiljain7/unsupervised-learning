@@ -54,4 +54,6 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
 
 22)no csr matrices in PCA only TruncatedSVD
 
-23)
+23)TruncatedSVD performs same transformation as PCA but accepts csr matrix  as input
+
+24)
