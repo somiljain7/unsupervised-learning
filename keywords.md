@@ -38,4 +38,8 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
   rotates data samples to be aligned with axes
   shifts data samples so they have mean 0
   
-16)
+16)pearson correlation - measures linear correlation of features 
+ -1,1 -> valyes range
+ value 0 means no linear correlation
+ 
+ 17)
