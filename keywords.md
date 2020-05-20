@@ -50,4 +50,6 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
 
 20)sparse array entries are mostly 0
 
-21)
+21)CSR matrix - save spaces by remembering only the non zero entries of array
+
+22)
