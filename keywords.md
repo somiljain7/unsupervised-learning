@@ -34,4 +34,8 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
 
 14)PRINCIPAL COMPONENT ANALYSIS(FUNDAMENTAL DIMENSION REDUCTION TECHNIQUE)
 
-15)
+15)PCA - aligns data with axis
+  rotates data samples to be aligned with axes
+  shifts data samples so they have mean 0
+  
+16)
