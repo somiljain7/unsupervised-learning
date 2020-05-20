@@ -56,4 +56,6 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
 
 23)TruncatedSVD performs same transformation as PCA but accepts csr matrix  as input
 
-24)
+24)TfidfVectorizer from sklearn. It transforms a list of documents into a word frequency array, which it outputs as a csr_matrix. It has fit() and transform() methods like other sklearn objects.
+
+25)
