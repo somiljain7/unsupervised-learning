@@ -52,4 +52,6 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
 
 21)CSR matrix - save spaces by remembering only the non zero entries of array
 
-22)
+22)no csr matrices in PCA only TruncatedSVD
+
+23)
