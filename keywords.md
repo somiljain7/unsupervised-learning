@@ -42,4 +42,6 @@ IT FINDS PATTENRS IN DATA AND USES THESE PATTERNS I DATA AND USSES THESE PATTERN
  -1,1 -> valyes range
  value 0 means no linear correlation
  
- 17)
+ 17)PCA - learrns directions if variance
+ 
+18)
